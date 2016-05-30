@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>[大笑]</key>
+	<string>大笑.png</string>
+	<key>[微笑]</key>
+	<string>微笑.png</string>
+	<key>[偷笑]</key>
+	<string>偷笑.png</string>
+	<key>[吐舌]</key>
+	<string>吐舌.png</string>
+	<key>[挖鼻]</key>
+	<string>挖鼻.png</string>
+	<key>[伤心]</key>
+	<string>伤心.png</string>
+	<key>[大哭]</key>
+	<string>大哭.png</string>
+	<key>[无聊]</key>
+	<string>无聊.png</string>
+	<key>[惊讶]</key>
+	<string>惊讶.png</string>
+	<key>[疑问]</key>
+	<string>疑问.png</string>
+	<key>[委屈]</key>
+	<string>委屈.png</string>
+	<key>[害羞]</key>
+	<string>害羞.png</string>
+	<key>[感动]</key>
+	<string>感动.png</string>
+	<key>[流汗]</key>
+	<string>流汗.png</string>
+	<key>[衰呀]</key>
+	<string>衰呀.png</string>
+	<key>[头晕]</key>
+	<string>头晕.png</string>
+	<key>[斜眼]</key>
+	<string>斜眼.png</string>
+	<key>[抓狂]</key>
+	<string>抓狂.png</string>
+	<key>[咆哮]</key>
+	<string>咆哮.png</string>
+	<key>[尴尬]</key>
+	<string>尴尬.png</string>
+	<key>[困了]</key>
+	<string>困了.png</string>
+	<key>[鼓掌]</key>
+	<string>鼓掌.png</string>
+	<key>[呕吐]</key>
+	<string>呕吐.png</string>
+	<key>[闭嘴]</key>
+	<string>闭嘴.png</string>
+	<key>[拜拜]</key>
+	<string>拜拜.png</string>
+	<key>[真强]</key>
+	<string>真强.png</string>
+	<key>[真弱]</key>
+	<string>真弱.png</string>
+	<key>[勾引]</key>
+	<string>勾引.png</string>
+	<key>[OK]</key>
+	<string>OK.png</string>
+	<key>[握手]</key>
+	<string>握手.png</string>
+</dict>
+</plist>

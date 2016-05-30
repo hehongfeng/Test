@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>face1</key>
+	<string>face1.png</string>
+	<key>face2</key>
+	<string>face2.png</string>
+	<key>face3</key>
+	<string>face3.png</string>
+	<key>face4</key>
+	<string>face4.png</string>
+	<key>face5</key>
+	<string>face5.png</string>
+	<key>face6</key>
+	<string>face6.png</string>
+	<key>face7</key>
+	<string>face7.png</string>
+	<key>face8</key>
+	<string>face8.png</string>
+	<key>face9</key>
+	<string>face9.png</string>
+	<key>face10</key>
+	<string>face10.png</string>
+	<key>face11</key>
+	<string>face11.png</string>
+	<key>face12</key>
+	<string>face12.png</string>
+	<key>face13</key>
+	<string>face13.png</string>
+	<key>face14</key>
+	<string>face14.png</string>
+	<key>face15</key>
+	<string>face15.png</string>
+	<key>face16</key>
+	<string>face16.png</string>
+	<key>face17</key>
+	<string>face17.png</string>
+	<key>face18</key>
+	<string>face18.png</string>
+	<key>face19</key>
+	<string>face19.png</string>
+	<key>face20</key>
+	<string>face20.png</string>
+	<key>face21</key>
+	<string>face21.png</string>
+	<key>face22</key>
+	<string>face22.png</string>
+	<key>face23</key>
+	<string>face23.png</string>
+	<key>face24</key>
+	<string>face24.png</string>
+	<key>face25</key>
+	<string>face25.png</string>
+	<key>face26</key>
+	<string>face26.png</string>
+	<key>face27</key>
+	<string>face27.png</string>
+	<key>face28</key>
+	<string>face28.png</string>
+	<key>face29</key>
+	<string>face29.png</string>
+	<key>face30</key>
+	<string>face30.png</string>
+</dict>
+</plist>
